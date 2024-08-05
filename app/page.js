@@ -84,7 +84,7 @@ export default function Home() {
           <DialogTitle>Add or Update Item</DialogTitle>
           <DialogContent>
             <DialogContentText>
-              To add a new item or update an existing item's quantity, please enter the item name and quantity here.
+              To add a new item or update an existing item&apos;s quantity, please enter the item name and quantity here.
             </DialogContentText>
             <TextField
               autoFocus
